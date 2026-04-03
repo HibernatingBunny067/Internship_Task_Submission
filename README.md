@@ -1,5 +1,7 @@
 # How to run the Notebook (final_submission_task.ipynb)
 
+## NOTE: you have Python 3.12+ installed and added to your path
+
 ```code
 git clone https://github.com/HibernatingBunny067/Internship_Task_Submission.git
 
