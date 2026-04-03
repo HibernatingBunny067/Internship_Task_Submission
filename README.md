@@ -22,5 +22,5 @@ pip install -U -q -r requirements.txt
 - [final_submission_task.ipynb](https://github.com/HibernatingBunny067/Internship_Task_Submission/blob/main/final_submission_task.ipynb) is the main jupyter notebook containing all the analysis along with explanation in markdown sections.
 - [charts](https://github.com/HibernatingBunny067/Internship_Task_Submission/tree/main/charts) contains all the plots used in the notebooks.
 - [tables](https://github.com/HibernatingBunny067/Internship_Task_Submission/tree/main/tables) contains a zip file of all the derived tables used in the notebook for analysis.
-
-[Portfolio](https://www.notion.so/harikesh067/Portfolio-Harikesh-Pratap-Verma-2c6a186274a4800f82c1ea5db7883954)
+-----
+- [Portfolio](https://www.notion.so/harikesh067/Portfolio-Harikesh-Pratap-Verma-2c6a186274a4800f82c1ea5db7883954)
