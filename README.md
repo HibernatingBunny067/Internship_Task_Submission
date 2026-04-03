@@ -1,5 +1,3 @@
-# Internship_Task_Submission
-
 # How to run the Notebook (final_submission_task.ipynb)
 
 ```code
@@ -15,3 +13,9 @@ source .venv/bin/activate (mac os)
 ##Download dependencies
 pip install -U -q -r requirements.txt
 ```
+-----
+
+# File Description
+
+- [charts](https://github.com/HibernatingBunny067/Internship_Task_Submission/tree/main/charts) contains all the plots used in the notebooks.
+- [tables](https://github.com/HibernatingBunny067/Internship_Task_Submission/tree/main/tables) contains a zip file of all the derived tables used in the notebook for analysis.
