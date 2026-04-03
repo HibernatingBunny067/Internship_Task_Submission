@@ -1,18 +1,19 @@
 # How to run the Notebook (final_submission_task.ipynb)
 
-## NOTE: you have Python 3.12+ installed and added to your path
 
 ```code
 git clone https://github.com/HibernatingBunny067/Internship_Task_Submission.git
 
-##create python virtual environment
+## NOTE: you have Python 3.12+ installed and added to your path
+
+## create python virtual environment
 python -m venv .venv
 
-##start the virtual environment
+## start the virtual environment
 source .venv/bin/activate (mac os)
 .venv\Scripts\activate  (windows, command prompt)
 
-##Download dependencies
+## Download dependencies
 pip install -U -q -r requirements.txt
 ```
 -----
